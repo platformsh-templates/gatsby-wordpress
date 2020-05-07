@@ -16,6 +16,8 @@ Gatsby is a free and open source framework based on React that helps developers 
 * PHP 7.3
 * MariaDB 10.4
 
+small edit
+
 ## Post-install
 
 1. When you initially deploy the template, you will receive a `403` error on the base route. There is not yet any content to build the Gatsby site, because Wordpress has not yet been fully installed. Visit the `backend.<generated url>` subdomain, and run through the Wordpress installer as normal. You will not be asked for database credentials as those are already provided.
